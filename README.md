@@ -1,2 +1,3 @@
 # vue-neicunguanli
-download all files and visit index.html
+visit
+https://lightmountainwolf.github.io/vue-neicunguanli/
